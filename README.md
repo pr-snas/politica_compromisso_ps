@@ -2,7 +2,7 @@ Bem vindos/as ao debate das propostas de Política Nacional da Participação So
 
 A proposta da Política Nacional de Participação Social é um marco legal para fortalecer o conceito e as práticas da Participação Social como método de governo no Brasil. O documento Compromisso Nacional pela Participação Social, em debate, deverá ser assinado pelos governos federal, estaduais e municipais que se comprometerão a viabilizar a participação social na gestão pública, entendendo-a como um direito humano indispensável.
 
-Para participar dos debates, basta clonar esse repositório de textos e submeter contribuições através de "commits". Dentro das boas práticas, é importante justificar a sugestão de alteração na descrição do "commit". Isso vai permitir um melhor entendimento das sugestões e promover o debate público.
+Para participar dos debates, basta clonar esse repositório de textos e submeter contribuições através de "commits". São dois textos que estão em debate, a proposta da Política Nacional de Participação Social https://github.com/pr-snas/politica_compromisso_ps/blob/master/politica_nacional_participacao_social e a minuta do Compromisso Nacional pela Participação Social https://github.com/pr-snas/politica_compromisso_ps/blob/master/compromisso_nacional_participacao_social - Dentro das boas práticas, é importante justificar a sugestão de alteração na descrição do "commit". Isso vai permitir um melhor entendimento das sugestões e promover o debate público.
 
 Todas as contribuições serão consideradas e avaliadas para incorporação nas propostas. As equipes da Secretaria-Geral e das Secretarias Estaduais que participaram da formulação da política e do compromisso serão convidadas  a participar desse processo, dialogando diretamente com os  comentadores. 
 
